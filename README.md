@@ -1,5 +1,5 @@
 # archtime
-
+![Превью проекта archtime](preview.png)
 Мой проект календаря-планера (PWA). 
 
 Посмотреть демо: https://zvrvlg.github.io/archtime
