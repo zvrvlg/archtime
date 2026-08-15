@@ -1,5 +1,8 @@
 # archtime
-![Превью проекта archtime](preview.png)
+![Заставка](Zastavka.png)
+![Страница Сегодня](Segodnya.png)
+![Страница Календарь](Calendar.png)
+![Тихий режим](regimtishini.png)
 Мой проект календаря-планера (PWA). 
 
 Посмотреть демо: https://zvrvlg.github.io/archtime
