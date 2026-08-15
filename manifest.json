@@ -1,11 +1,11 @@
 {
-  "name": "Навигатор дня",
-  "short_name": "Навигатор",
-  "description": "Твой путеводитель по дням",
-  "start_url": "/",
+  "name": "Архитектор времени",
+  "short_name": "АВ",
+  "description": "Календарь-планировщик",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#3B3BFC",
+  "background_color": "#0a0a0f",
+  "theme_color": "#6C63FF",
   "orientation": "portrait",
   "icons": [
     {
