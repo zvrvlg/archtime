@@ -1,8 +1,10 @@
 # archtime
-![Заставка](Zastavka.png)
-![Страница Сегодня](Segodnya.png)
-![Страница Календарь](Calendar.png)
-![Тихий режим](regimtishini.png)
+
+<img src="Zastavka.png" alt="Шаг 1" width="400">
+<img src="Segodnya.png" alt="Шаг 2" width="400">
+<img src="Calendar.png" alt="Шаг 3" width="400">
+<img src="regimtishini.png" alt="Шаг 3" width="400">
+
 Мой проект календаря-планера (PWA). 
 
 Посмотреть демо: https://zvrvlg.github.io/archtime
