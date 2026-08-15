@@ -2,10 +2,11 @@
 
 ## Скриншоты интерфейса
 Ниже — основные экраны приложения (по клику открываются в полном размере):
-<img src="Zastavka.png" alt="Шаг 1: вход в систему" width="500">
-<img src="Segodnya.png" alt="Шаг 2: страница сегодня" width="500">
-<img src="Calendar.png" alt="Шаг 3: страница календарь" width="500">
-<img src="regimtishini.png" alt="Шаг 4: включенный режим тишины" width="500">
+
+<img src="Zastavka.png" alt="Шаг 1: вход в систему" width="300">
+<img src="Segodnya.png" alt="Шаг 2: страница сегодня" width="300">
+<img src="Calendar.png" alt="Шаг 3: страница календарь" width="300">
+<img src="regimtishini.png" alt="Шаг 4: включенный режим тишины" width="300">
 
 Мой проект календаря-планера (PWA). 
 
